@@ -12,6 +12,8 @@ I'm a passionate **Full-Stack Developer** and **Computer Science student** from 
 - 🛠 Familiar with:
   - **SQL Databases**: PostgreSQL, SQLite
   - **NoSQL Databases**: MongoDB
+  - ☁️ **Cloud Technologies**: AWS (Amazon Web Services)
+  - 🐳 **Containerization**: Docker
 - 💼 Interning at **Partitie Innovation**
 - 🌍 I'm looking to collaborate on projects that bring value and impact!
 - 📊 Aspiring to venture into the field of **Artificial Intelligence**
