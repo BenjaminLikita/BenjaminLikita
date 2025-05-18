@@ -1,6 +1,6 @@
 # Hi, I'm Benjamin Likita! 👋
 
-I'm a passionate **Full-Stack Developer** and **Computer Science student** from Nigeria, proficient in a wide range of technologies. Currently, I'm interning at **Partitie Innovation Hub, Minna, Nigeria** and I'm constantly learning, and I have a growing interest in **Artificial Intelligence**. Though I've found a real passion for **TypeScript**, I enjoy exploring various technologies to build impactful projects.
+I'm a passionate **Full-Stack Developer** and **Computer Science student** from Nigeria, proficient in a wide range of technologies. I'm constantly learning, and I have a growing interest in **Artificial Intelligence**. Though I've found a real passion for **TypeScript**, I enjoy exploring various technologies to build impactful projects.
 
 ## 🌟 About Me
 - 🎓 Computer Science student
