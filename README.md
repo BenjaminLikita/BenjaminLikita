@@ -9,8 +9,9 @@ I'm a passionate **Full-Stack Developer** and **Computer Science student** from 
   - **JavaScript** (React, Next.js, Nest.js, Node/Express.js)
   - **TypeScript**
   - **C**
+  - **Go**
 - 🛠 Familiar with:
-  - **SQL Databases**: PostgreSQL, SQLite
+  - **SQL Databases**: PostgreSQL, SQL, SQLite
   - **NoSQL Databases**: MongoDB
   - ☁️ **Cloud Technologies**: AWS (Amazon Web Services)
   - 🐳 **Containerization**: Docker
